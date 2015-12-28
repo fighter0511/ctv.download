@@ -1,0 +1,133 @@
+[
+    {
+        "outputFile": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\values-gl\\values-gl.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 357
+                },
+                "from": {
+                    "file": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\values-gl\\plurals.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 2,
+                        "startOffset": 2040,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 2300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 362,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 652
+                },
+                "from": {
+                    "file": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\values-gl\\plurals.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 2,
+                        "startOffset": 1479,
+                        "endLine": 34,
+                        "endColumn": 12,
+                        "endOffset": 1777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 657,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 941
+                },
+                "from": {
+                    "file": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\values-gl\\plurals.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 2,
+                        "startOffset": 1184,
+                        "endLine": 30,
+                        "endColumn": 12,
+                        "endOffset": 1476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 946,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 1195
+                },
+                "from": {
+                    "file": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\values-gl\\plurals.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 2,
+                        "startOffset": 1780,
+                        "endLine": 38,
+                        "endColumn": 12,
+                        "endOffset": 2037
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1200,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1374
+                },
+                "from": {
+                    "file": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\values-gl\\plurals.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 811,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 993
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1379,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1556
+                },
+                "from": {
+                    "file": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\values-gl\\plurals.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 996,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1181
+                    }
+                }
+            }
+        ]
+    }
+]

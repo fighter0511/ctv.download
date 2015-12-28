@@ -1,0 +1,342 @@
+[
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\grid_base.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\layout\\grid_base.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\view_player_notifier.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\view_player_notifier.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\activity_splash.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\app_widget_large_alternate.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\layout\\app_widget_large_alternate.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\fragment_audio_player_queue.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\fragment_audio_player_queue.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\activity_no_btcwallet_available.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\activity_no_btcwallet_available.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\profile_tab.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\layout\\profile_tab.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\dialog_preference_storage.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\dialog_preference_storage.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\view_searchinput_radiogroup.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\view_searchinput_radiogroup.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\view_main_fragment_simple_header.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\view_main_fragment_simple_header.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\action_bar.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\layout\\action_bar.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\view_transfers_header.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\view_transfers_header.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\view_rich_notification.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\view_rich_notification.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\view_suggestion_item.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\view_suggestion_item.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\view_bittorrent_search_result_list_item.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\view_bittorrent_search_result_list_item.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\fragment_music_browser_phone.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\layout\\fragment_music_browser_phone.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\notification_template_base.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\layout\\notification_template_base.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\view_search_progress.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\view_search_progress.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\slidemenu_listitem.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\slidemenu_listitem.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\color_scheme_dialog.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\layout\\color_scheme_dialog.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\list_item_normal.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\layout\\list_item_normal.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\activity_base.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\view_browse_thumbnail_peer_list_item.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\view_browse_thumbnail_peer_list_item.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\view_preference_simple_action.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\view_preference_simple_action.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\colorstrip.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\layout\\colorstrip.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\fragment_search.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\view_player_menuitem.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\view_player_menuitem.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\view_transfer_item_list_item.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\view_transfer_item_list_item.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\dialog_preference_number_spinner.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\dialog_preference_number_spinner.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\view_queue_list_item.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\view_queue_list_item.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\list_item_detailed_no_background.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\layout\\list_item_detailed_no_background.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\activity_main2.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\view_searchinput.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\view_searchinput.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\dialog_confirm_list.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\dialog_confirm_list.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\dialog_new_transfer.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\dialog_new_transfer.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\app_widget_small.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\layout\\app_widget_small.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\app_widget_large.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\layout\\app_widget_large.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\view_browse_peer_search_bar.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\view_browse_peer_search_bar.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\view_social_buttons.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\view_social_buttons.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\profile_tab_carousel.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\layout\\profile_tab_carousel.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\app_msg.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\layout\\app_msg.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\fragment_about.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\view_custom_actionbar.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\view_custom_actionbar.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\view_menu_list_item.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\view_menu_list_item.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\list_base.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\layout\\list_base.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\activity_about.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\square_image_view.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\layout\\square_image_view.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\fragment_transfers.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\fragment_transfers.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\fragment_browse_peer.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\fragment_browse_peer.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\view_clearable_edittext.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\view_clearable_edittext.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\grid_items_normal.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\layout\\grid_items_normal.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\view_general_wizard_page.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\view_general_wizard_page.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\view_peer_list_item.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\view_peer_list_item.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\view_promotions.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\view_promotions.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\activity_preview_player.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\activity_preview_player.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\view_intent_wizard_page.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\view_intent_wizard_page.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\view_permanent_status_notification.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\view_permanent_status_notification.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\view_selectable_list_item.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\view_selectable_list_item.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\audio_player_controls.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\layout\\audio_player_controls.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\app_widget_recents.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\layout\\app_widget_recents.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\list_item_track_confirmation_dialog.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\list_item_track_confirmation_dialog.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\list_item_simple.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\layout\\list_item_simple.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\view_browse_peer_list_item.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\view_browse_peer_list_item.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\bottom_action_bar.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\layout\\bottom_action_bar.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\view_browse_peers_header.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\view_browse_peers_header.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\view_promotions_item.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\view_promotions_item.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\app_widget_recents_items.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\layout\\app_widget_recents_items.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\activity_player_base.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\layout\\activity_player_base.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\view_transfer_list_item.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\view_transfer_list_item.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\dialog_preference_number_picker.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\dialog_preference_number_picker.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\number_picker.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\number_picker.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\list_item_detailed.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\layout\\list_item_detailed.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\view_checkbox_preference.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\view_checkbox_preference.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\faux_carousel.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\layout\\faux_carousel.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\list_header.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\layout\\list_header.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\fragment_themes_base.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\layout\\fragment_themes_base.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\activity_wizard.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\activity_wizard.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\activity_profile_base.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\layout\\activity_profile_base.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\view_browse_peer_header.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\view_browse_peer_header.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\edit_track_list_item.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\layout\\edit_track_list_item.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\view_vpn_status_detail.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\view_vpn_status_detail.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\activity_main.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\top_shadow.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\layout\\top_shadow.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\view_preference_storage_list_item.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\view_preference_storage_list_item.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout\\view_promotions_native_ads_item.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout\\view_promotions_native_ads_item.xml"
+    }
+]

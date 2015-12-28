@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+/*
+ * Created by Angel Leon (@gubatron), Alden Torres (aldenml), and
+ * Marcelina Knitter (@marcelinkaaa)
+ * Copyright (c) 2011-2015, FrostWire(R). All rights reserved.
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ */
+-->
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <!-- header icon -->
+        <ImageView
+            android:id="@+id/view_vpn_status_header_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="12dp"
+            android:layout_marginTop="3dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/vpn_icon_on_info" />
+
+        <!-- header title -->
+        <TextView
+            android:id="@+id/view_vpn_status_header_title"
+            style="@style/VPNTitle"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:text="@string/unprotected_connection" />
+
+        <!-- Get VPN Button -->
+        <Button
+            android:id="@+id/view_vpn_status_get_vpn_button"
+            style="@style/GetVPNButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="15dp"
+            android:layout_marginTop="15dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:text="@string/protect_my_privacy" />
+
+        <!-- privacy as a human right paragraph -->
+        <TextView
+            style="@style/VPNSubTitle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:padding="0dp"
+            android:text="@string/your_privacy_is_a_fundamental_right_html" />
+
+        <!-- explanation about what is open -->
+        <TextView
+            android:id="@+id/VPNText"
+            style="@style/VPNText"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="15dp"
+            android:text="@string/unprotected_connections_visibility_bullet" />
+
+        <!-- Bullet - VPN not required for FrostWire but highly recommended -->
+        <com.frostwire.android.gui.views.HTMLTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="20dp"
+            android:fontFamily="sans-serif-normal"
+            android:padding="0dp"
+            android:text="@string/you_dont_need_a_vpn_to_use_frostwire_bullet_html"
+            android:textColor="@color/app_text_secondary"
+            android:textSize="@dimen/text_size_medium" />
+
+    </LinearLayout>
+</ScrollView>

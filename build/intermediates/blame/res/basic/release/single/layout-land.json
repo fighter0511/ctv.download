@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout-land\\activity_preview_player.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout-land\\activity_preview_player.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout-land\\view_searchinput_radiogroup.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout-land\\view_searchinput_radiogroup.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout-land\\activity_player_base.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\layout-land\\activity_player_base.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\layout-land\\view_promotions.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\layout-land\\view_promotions.xml"
+    }
+]

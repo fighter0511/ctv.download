@@ -1,0 +1,430 @@
+[
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\browse_peer_torrent_icon_selector_on.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\browse_peer_torrent_icon_selector_on.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\padlock_unlocked_header_icon.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\padlock_unlocked_header_icon.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\browse_peer_audio_icon_selector_on.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\browse_peer_audio_icon_selector_on.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\browse_peer_document_icon_selector_menu.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\browse_peer_document_icon_selector_menu.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\menu_icon_library_over.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\menu_icon_library_over.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\browse_peer_picture_icon_selector_off.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\browse_peer_picture_icon_selector_off.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\notification_vpn_on.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\notification_vpn_on.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\contextmenu_icon_remove_transfer.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\contextmenu_icon_remove_transfer.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\browse_peer_document_icon_selector_off.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\browse_peer_document_icon_selector_off.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\checkbox_button_selector_on.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\checkbox_button_selector_on.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\browse_peer_selector_on_dummy.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\browse_peer_selector_on_dummy.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\padlock_locked_header_icon.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\padlock_locked_header_icon.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\menu_icon_peers.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\menu_icon_peers.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\browse_peer_application_icon_selector_off.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\browse_peer_application_icon_selector_off.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\contextmenu_icon_copy.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\contextmenu_icon_copy.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\ic_action_search.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\drawable-xxhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\contextmenu_icon_donation_bitcoin.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\contextmenu_icon_donation_bitcoin.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\internal_memory_notification.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\internal_memory_notification.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\contextmenu_icon_picture.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\contextmenu_icon_picture.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\transfers_triangle_downward.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\transfers_triangle_downward.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\transfer_menuitem_plus.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\transfer_menuitem_plus.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\ic_drawer.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\browse_peer_audio_icon_selector_off.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\browse_peer_audio_icon_selector_off.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\contextmenu_icon_user.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\contextmenu_icon_user.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\checkbox_button_selector_on_disabled.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\checkbox_button_selector_on_disabled.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\menu_icon_library.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\menu_icon_library.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\contextmenu_icon.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\contextmenu_icon.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\menu_icon_settings_over.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\menu_icon_settings_over.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\menu_icon_my_music.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\menu_icon_my_music.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\menu_icon_my_music_over.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\menu_icon_my_music_over.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\vpn_icon_on_info.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\vpn_icon_on_info.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\default_artwork.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\drawable-xxhdpi\\default_artwork.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\contextmenu_icon_donation_fiat.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\contextmenu_icon_donation_fiat.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\menu_icon_settings.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\menu_icon_settings.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\device_type_icon_tablet.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\device_type_icon_tablet.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\download_icon.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\download_icon.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\menu_icon_search_over.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\menu_icon_search_over.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\clearable_edittext_add_icon.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\clearable_edittext_add_icon.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\menu_icon_support.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\menu_icon_support.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\artwork_default.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\artwork_default.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\transfer_menuitem_minus.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\transfer_menuitem_minus.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\contextmenu_icon_add_to_existing_playlist_dark.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\contextmenu_icon_add_to_existing_playlist_dark.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\browse_peer_video_icon_selector_on.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\browse_peer_video_icon_selector_on.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\ic_ab_back.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\ic_ab_back.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\browse_peer_video_icon_selector_off.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\browse_peer_video_icon_selector_off.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\browse_peer_padlock_locked_icon_inactive.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\browse_peer_padlock_locked_icon_inactive.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\contextmenu_icon_stop_transfer.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\contextmenu_icon_stop_transfer.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\clearable_edittext_search_icon.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\clearable_edittext_search_icon.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\checkbox_button_selector_off.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\checkbox_button_selector_off.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\wifi.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\wifi.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\contextmenu_icon_send.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\contextmenu_icon_send.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\browse_peer_torrent_icon_selector_off.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\browse_peer_torrent_icon_selector_off.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\device_type_type_phone.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\device_type_type_phone.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\ic_menu_moreoverflow.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\ic_menu_moreoverflow.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\notification_shutdown.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\notification_shutdown.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\browse_peer_picture_icon_selector_on.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\browse_peer_picture_icon_selector_on.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\transfers_triangle_upward.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\transfers_triangle_upward.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\browse_peer_torrent_icon_selector_menu.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\browse_peer_torrent_icon_selector_menu.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\notification_vpn_off.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\notification_vpn_off.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\question_mark.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\question_mark.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\internal_memory_notification_dark_bg.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\internal_memory_notification_dark_bg.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\my_files_device.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\my_files_device.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\contextmenu_icon_rename.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\contextmenu_icon_rename.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\browse_peer_picture_icon_selector_menu.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\browse_peer_picture_icon_selector_menu.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\browse_peer_ringtone_icon_selector_on.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\browse_peer_ringtone_icon_selector_on.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\sd_card_notification.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\sd_card_notification.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\menu_icon_peers_over.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\menu_icon_peers_over.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\contextmenu_icon_share.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\contextmenu_icon_share.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\vpn_icon_off_info.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\vpn_icon_off_info.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\contextmenu_icon_play.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\contextmenu_icon_play.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\app_icon.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\clearable_edittext_clear_icon.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\clearable_edittext_clear_icon.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\menu_icon_support_over.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\menu_icon_support_over.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\browse_peer_video_icon_selector_menu.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\browse_peer_video_icon_selector_menu.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\browse_peer_audio_icon_selector_menu.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\browse_peer_audio_icon_selector_menu.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\browse_peer_ringtone_icon_selector_off.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\browse_peer_ringtone_icon_selector_off.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\browse_peer_play_icon.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\browse_peer_play_icon.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\contextmenu_icon_toggle_share.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\contextmenu_icon_toggle_share.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\checkbox_button_selector_on_disabled_light.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\checkbox_button_selector_on_disabled_light.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\sd_card_notification_dark_bg.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\sd_card_notification_dark_bg.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\share_howto_locked.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\share_howto_locked.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\contextmenu_icon_magnet.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\contextmenu_icon_magnet.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\contextmenu_icon_playlist_add_dark.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\contextmenu_icon_playlist_add_dark.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\browse_peer_application_icon_selector_on.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\browse_peer_application_icon_selector_on.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\browse_peer_document_icon_selector_on.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\browse_peer_document_icon_selector_on.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\browse_peer_application_icon_selector_menu.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\browse_peer_application_icon_selector_menu.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\frostwire_notification_flat.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\frostwire_notification_flat.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\ic_action_favorite.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\drawable-xxhdpi\\ic_action_favorite.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\menu_icon_transfers_over.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\menu_icon_transfers_over.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\browse_peer_padlock_unlocked_icon.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\browse_peer_padlock_unlocked_icon.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\contextmenu_icon_ringtone.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\contextmenu_icon_ringtone.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\download_clicked_icon.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\download_clicked_icon.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\contextmenu_icon_trash.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\contextmenu_icon_trash.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\browse_peer_padlock_locked_icon.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\browse_peer_padlock_locked_icon.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\contextmenu_icon_pause_transfer.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\contextmenu_icon_pause_transfer.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\contextmenu_icon_play_transfer.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\contextmenu_icon_play_transfer.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\menu_icon_exit.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\menu_icon_exit.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\browse_peer_padlock_unlocked_icon_inactive.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\browse_peer_padlock_unlocked_icon_inactive.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\share_howto.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\share_howto.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\contextmenu_icon_unshare.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\contextmenu_icon_unshare.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\browse_peer_ringtone_icon_selector_menu.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\browse_peer_ringtone_icon_selector_menu.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\menu_icon_transfers.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\menu_icon_transfers.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\menu_icon_exit_over.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\menu_icon_exit_over.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\device_type_icon_desktop.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\device_type_icon_desktop.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\ic_action_pinn_to_home.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\drawable-xxhdpi\\ic_action_pinn_to_home.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\menu_icon_search.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\menu_icon_search.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi-v4\\add_transfer.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-xxhdpi\\add_transfer.png"
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\values-port-hdpi-v4\\values-port-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "D:\\anh Ky\\frostwire-master\\android\\res\\values-port-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 893,
+                        "endColumn": 52,
+                        "endOffset": 941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 46,
+                    "endOffset": 150
+                },
+                "from": {
+                    "file": "D:\\anh Ky\\frostwire-master\\android\\res\\values-port-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 846,
+                        "endColumn": 46,
+                        "endOffset": 888
+                    }
+                }
+            }
+        ]
+    }
+]

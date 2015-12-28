@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="add_to_favorites">Add to favourites</string>
+    <string name="app_widget_large_alt">Apollo: 4×2 (alternative)</string>
+    <string name="color_picker_title">Colour scheme</string>
+    <string msgid="7170719956698345984" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> is having trouble with Google Play services. If the problem persists, please contact the developer for assistance."</string>
+    <string name="empty_favorite">Songs you mark as favourites will be shown here.</string>
+    <string name="menu_equalizer">Equaliser</string>
+    <string name="no_effects_for_you">The equaliser could not be opened.</string>
+    <string name="playlist_favorite">Favourite</string>
+    <string name="playlist_favorites">Favourites</string>
+    <string name="remove_from_favorites">Remove from favourites</string>
+    <string name="settings_color_scheme_summary">Changes the accent colour in Apollo</string>
+    <string name="settings_color_scheme_title">Choose Apollo\'s default colour scheme</string>
+    <string name="settings_open_source_licenses">Open source licences</string>
+</resources>

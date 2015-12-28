@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\layout_divider_1_gray.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\layout_divider_1_gray.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\listview_item_background.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\listview_item_background.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\retry_search_button_basic_blue_round_background.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\retry_search_button_basic_blue_round_background.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\social_wizard_facebook.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\social_wizard_facebook.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\timepicker_down_btn.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\timepicker_down_btn.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\social_wizard_reddit.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\social_wizard_reddit.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\bottom_shadow.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\drawable\\bottom_shadow.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\wizard_button_off.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\wizard_button_off.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\transfers_button_vertical_line_background.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\transfers_button_vertical_line_background.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\right_shadow.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\drawable\\right_shadow.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\home_as_up_padding.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\home_as_up_padding.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\audio_player_pager_container.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\drawable\\audio_player_pager_container.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\vpi__tab_indicator.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\action_bar.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\drawable\\action_bar.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\transfers_indicators_background.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\transfers_indicators_background.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\nickname_edittext_background.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\nickname_edittext_background.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\radio_button_textcolor_selector.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\radio_button_textcolor_selector.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\vpn_button_background_selector_on.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\vpn_button_background_selector_on.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\main_header_background.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\main_header_background.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\donation_button_background_selector.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\donation_button_background_selector.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\audio_player_seekbar.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\drawable\\audio_player_seekbar.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\player_menu_item_background_selector.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\player_menu_item_background_selector.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\blue_button_background_selector_off.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\blue_button_background_selector_off.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\mediaplayer_header_background.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\mediaplayer_header_background.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\listview_item_press_background_selector_on.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\listview_item_press_background_selector_on.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\overscroll_glow.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\overscroll_glow.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\vpn_button_background_selector.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\vpn_button_background_selector.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\bottom_action_bar.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\drawable\\bottom_action_bar.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\transfers_listview_item_background_selector_off.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\transfers_listview_item_background_selector_off.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\rich_notification_border.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\rich_notification_border.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\listview_item_background_selector.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\listview_item_background_selector.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\searchinput_button_selector.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\searchinput_button_selector.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\blue_button_background_selector.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\blue_button_background_selector.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\listview_item_thumbnail_background.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\listview_item_thumbnail_background.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\slidemenu_listitem_background_selected.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\slidemenu_listitem_background_selected.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\radio_button_background_selector.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\radio_button_background_selector.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\mediaplayer_bottom_background.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\mediaplayer_bottom_background.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\pager_background.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\drawable\\pager_background.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\social_wizard_twitter.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\social_wizard_twitter.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\wizard_button_on.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\wizard_button_on.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\checkbox_button_selector.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\checkbox_button_selector.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\social_wizard_check.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\social_wizard_check.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\progress_indeterminate_horizontal_holo.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\progress_indeterminate_horizontal_holo.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\promo_download_arrow_button.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\promo_download_arrow_button.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\transfers_listview_item_background_selector.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\transfers_listview_item_background_selector.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\slidemenu_list_selector.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\slidemenu_list_selector.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\radio_button_background_selector_on.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\radio_button_background_selector_on.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\btn_donation_background.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\btn_donation_background.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\timepicker_input.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\timepicker_input.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\searchbox_background.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\searchbox_background.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\timepicker_up_btn.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\timepicker_up_btn.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\vpn_button_background_selector_off.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\vpn_button_background_selector_off.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\top_shadow.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\drawable\\top_shadow.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\blue_button_background_selector_on.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\blue_button_background_selector_on.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\wizard_button_selector.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\wizard_button_selector.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\browse_peer_list_item_download_button_background.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\browse_peer_list_item_download_button_background.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\tpi_background.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\drawable\\tpi_background.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\progress_horizontal_holo_dark.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\progress_horizontal_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\donation_button_background_selector_off.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\donation_button_background_selector_off.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\radio_button_background_selector_off.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\radio_button_background_selector_off.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\main_menu_button_icon_selector.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\main_menu_button_icon_selector.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\browse_peer_listview_item_inactive_background.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\browse_peer_listview_item_inactive_background.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\overscroll_edge.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\overscroll_edge.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\clearable_edittext_background.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\clearable_edittext_background.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\listview_item_press_background_selector.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\listview_item_press_background_selector.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\shape_untabbed_header_background.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\shape_untabbed_header_background.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\donation_button_background_selector_on.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\donation_button_background_selector_on.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\mediaplayer_extracontrols_background.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\mediaplayer_extracontrols_background.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\notification_background_circle.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\notification_background_circle.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\drawable\\progress_horizontal_holo_light.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable\\progress_horizontal_holo_light.xml"
+    }
+]

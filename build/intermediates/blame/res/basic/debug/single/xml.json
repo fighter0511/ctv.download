@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\xml\\app_widget_small.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\xml\\app_widget_small.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\xml\\app_widget_large.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\xml\\app_widget_large.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\xml\\application_preferences.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\xml\\application_preferences.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\xml\\searchable.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\xml\\app_widget_recents.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\xml\\app_widget_recents.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\xml\\settings.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\xml\\settings.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\xml\\app_widget_large_alternate.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\xml\\app_widget_large_alternate.xml"
+    }
+]

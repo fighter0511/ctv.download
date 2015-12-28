@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="NNNtracksdeleted">
+    <item quantity="one"><ns1:g example="1" id="songs_to_delete">%d</ns1:g> canción foi eliminada.</item>
+    <item quantity="other"><ns1:g id="songs_to_delete">%d</ns1:g> cancións foron eliminadas.</item>
+  </plurals>
+    <plurals name="NNNtracksfromplaylist">
+    <item quantity="one"><ns1:g example="1" id="number">%d</ns1:g> canción eliminada da lista de reprodución.</item>
+    <item quantity="other"><ns1:g example="27" id="number">%d</ns1:g> cancións eliminadas da lista de reprodución.</item>
+  </plurals>
+    <plurals name="NNNtrackstoplaylist">
+    <item quantity="one"><ns1:g example="1" id="number">%d</ns1:g> canción engadida á lista de reprodución.</item>
+    <item quantity="other"><ns1:g example="27" id="number">%d</ns1:g> cancións engadidas á lista de reprodución.</item>
+  </plurals>
+    <plurals name="NNNtrackstoqueue">
+    <item quantity="one"><ns1:g example="1" id="number">%d</ns1:g> canción engadida á cola.</item>
+    <item quantity="other"><ns1:g example="27" id="number">%d</ns1:g> cancións engadidas á cola.</item>
+  </plurals>
+    <plurals name="Nalbums">
+    <item quantity="one"><ns1:g id="count">%d</ns1:g> álbum</item>
+    <item quantity="other"><ns1:g id="count">%d</ns1:g> álbums</item>
+  </plurals>
+    <plurals name="Nsongs">
+    <item quantity="one"><ns1:g id="count">%d</ns1:g> canción</item>
+    <item quantity="other"><ns1:g id="count">%d</ns1:g> cancións</item>
+  </plurals>
+</resources>

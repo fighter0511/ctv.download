@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-nodpi-v4\\app_widget_small.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\drawable-nodpi\\app_widget_small.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-nodpi-v4\\app_widget_large.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\drawable-nodpi\\app_widget_large.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-nodpi-v4\\app_widget_large_alternate.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\drawable-nodpi\\app_widget_large_alternate.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-nodpi-v4\\theme_preview.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\drawable-nodpi\\theme_preview.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-nodpi-v4\\app_widget_recents.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\drawable-nodpi\\app_widget_recents.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-nodpi-v4\\app_widget_recents_stack_preview.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\drawable-nodpi\\app_widget_recents_stack_preview.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-nodpi-v4\\artwork_default_micro_kind.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\drawable-nodpi\\artwork_default_micro_kind.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-nodpi-v4\\background_holo_dark.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\drawable-nodpi\\background_holo_dark.png"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-nodpi-v4\\header_temp.png",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\drawable-nodpi\\header_temp.png"
+    }
+]

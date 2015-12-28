@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\release\\values-ta\\values-ta.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 68,
+                    "endOffset": 119
+                },
+                "from": {
+                    "file": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\values-ta\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 811,
+                        "endColumn": 66,
+                        "endOffset": 875
+                    }
+                }
+            }
+        ]
+    }
+]

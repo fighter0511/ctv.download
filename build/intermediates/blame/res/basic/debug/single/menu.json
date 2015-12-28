@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\menu\\album_song_sort_by.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\menu\\album_song_sort_by.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\menu\\song_sort_by.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\menu\\song_sort_by.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\menu\\artist_album_sort_by.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\menu\\artist_album_sort_by.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\menu\\main2.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\menu\\main2.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\menu\\view_as.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\menu\\view_as.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\menu\\shuffle.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\menu\\shuffle.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\menu\\favorite.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\menu\\favorite.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\menu\\album_sort_by.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\menu\\album_sort_by.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\menu\\add_to_homescreen.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\menu\\add_to_homescreen.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\menu\\theme_shop.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\menu\\theme_shop.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\menu\\menu_splash.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\menu\\menu_splash.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\menu\\activity_base.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\menu\\activity_base.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\menu\\artist_sort_by.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\menu\\artist_sort_by.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\menu\\artist_song_sort_by.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\menu\\artist_song_sort_by.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\menu\\new_playlist.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\menu\\new_playlist.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\menu\\audio_player.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\menu\\audio_player.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\menu\\main.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\menu\\queue.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\menu\\queue.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\menu\\search.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\menu\\search.xml"
+    }
+]

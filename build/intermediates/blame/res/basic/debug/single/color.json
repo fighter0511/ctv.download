@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\color\\transfers_top_button_selector.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\color\\transfers_top_button_selector.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\color\\disabled_text_selector.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\res\\color\\disabled_text_selector.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\color\\vpi__light_theme.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\color\\vpi__dark_theme.xml",
+        "source": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\color\\vpi__dark_theme.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\anh Ky\\frostwire-master\\android\\build\\intermediates\\res\\merged\\basic\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "D:\\anh Ky\\frostwire-master\\android\\apollo\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 684,
+                        "endColumn": 60,
+                        "endOffset": 740
+                    }
+                }
+            }
+        ]
+    }
+]
